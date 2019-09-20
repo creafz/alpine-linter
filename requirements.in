@@ -1,4 +1,3 @@
-yapf
-unify
+black
 flake8
 isort
